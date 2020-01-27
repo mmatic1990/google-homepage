@@ -1,0 +1,19 @@
+.top-nav{
+  height:10%;
+  float: right;
+}
+.content{
+  height:80%;
+  text-align: center;
+  padding-top: 15%;
+}
+.footer{
+  height:10%;
+  padding-top:25%;
+}
+.left{
+  text-align: left;
+}
+.right{
+  float: right;
+}
